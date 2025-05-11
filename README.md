@@ -15,6 +15,14 @@ A Python-based backtesting engine for options trading strategies (e.g., Iron Con
    ```bash
    git clone https://github.com/10sharmashivam/backtesting_strategy.git
 
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+
+3. Run the backtest:
+   ```bash
+   python main.py
+
 # Project Structure
 
 ```
